@@ -7,6 +7,13 @@ npm install
 node starwars.js
 ```
 
+Try these endpoints:
+- [http://localhost:3000/people](http://localhost:3000/people)
+- [http://localhost:3000/people?sortBy=name](http://localhost:3000/people?sortBy=name)
+- [http://localhost:3000/people?sortBy=height](http://localhost:3000/people?sortBy=height)
+- [http://localhost:3000/people?sortBy=mass](http://localhost:3000/people?sortBy=mass)
+- [http://localhost:3000/planets](http://localhost:3000/planets)
+
 ## Notes
 
 - Time: 11:16am - 12:40pm (1hr 24min)
