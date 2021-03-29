@@ -1,0 +1,25 @@
+{
+  "name": "exercise",
+  "version": "1.0.0",
+  "description": "A little exercise using a Star Wars API [https://swapi.dev/](https://swapi.dev/) and [express.js](https://expressjs.com/)",
+  "main": "starwars.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lodash": "^4.17.21",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathand8/solo-code-challenge-node-exercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathand8/solo-code-challenge-node-exercise/issues"
+  },
+  "homepage": "https://github.com/nathand8/solo-code-challenge-node-exercise#readme"
+}
