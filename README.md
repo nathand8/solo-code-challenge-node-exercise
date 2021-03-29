@@ -1,3 +1,16 @@
+# Submission
+
+## Running the Node App
+
+```bash
+npm install
+node starwars.js
+```
+
+## Notes
+
+- Time: 11:16am - 12:40pm (1hr 24min)
+
 # node-exercise
 A little exercise using a Star Wars API [https://swapi.dev/](https://swapi.dev/) and [express.js](https://expressjs.com/)
 
